@@ -1,7 +1,7 @@
 # Canon.com/ijsetup 
 
 
-[![canon.com/ijsetup](lets-get-started.png)](http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com) 
+[![canon.com/ijsetup](get-start.png)](http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com) 
 
 Canon Printers are known for their amazing printing quality. With canon ij printer setup you can also scan and copy your document in the best quality. It is very affordable and easy to setup. Get it today from its official website: **[canon.com/ijsetup](https://canon0cmijsetup.github.io/)** and experience world-class printing quality. Connect your wireless Canon printer with your device whether mac or windows using the steps given here.
 
